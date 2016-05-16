@@ -1,0 +1,11 @@
+{
+  "name": "requirejs",
+  "license": "LGPL",
+  "tags": ["js","extern","RequireJS"],
+  "description": "RequireJS binding.",
+  "contributors": ["yar3333"],
+  "releasenote": "Init.",
+  "version": "1.0.0",
+  "url": "https://bitbucket.org/yar3333/haxe-requirejs",
+  "dependencies": {}
+}
